@@ -1,4 +1,4 @@
-rows=int(input()) 
+rows=int(input())  
 #b is used to contain tha numerical values for this pattern
 b=0
 for i in range(rows,0,-1):
