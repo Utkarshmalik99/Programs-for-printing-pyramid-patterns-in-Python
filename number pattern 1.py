@@ -1,4 +1,4 @@
-rows=int(input()) 
+rows=int(input())  
    
 for n in range(rows):
     for i in range(n):
