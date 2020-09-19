@@ -1,4 +1,4 @@
-num=int(input("Enter the initial no.: "))
+num=int(input("Enter the initial no.: ")) 
 rows=int(input("Enter the no. of rows: "))
 stop=int(input("Enter the stop value: ")) 
 
